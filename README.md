@@ -1,2 +1,2 @@
-# spare_exchange
+# spare_change
 A simple approach to forex prediction 
