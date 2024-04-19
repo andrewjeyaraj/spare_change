@@ -2,7 +2,8 @@
 """
 Created on Thu Aug  3 20:58:54 2023
 
-@author: umroot
+@author: Andrew Jeyaraj
+email:andrew.jeyaraj@mail.concordia.ca
 """
 import pandas as pd
 import numpy as np
